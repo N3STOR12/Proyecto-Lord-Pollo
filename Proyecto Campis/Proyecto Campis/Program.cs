@@ -13,10 +13,17 @@ namespace Proyecto_Campis
         {
             Console.WriteLine("Sistema Lord Pollo.");
             Console.WriteLine("Hola soy santy");
+            Console.WriteLine("Hola soy santy");
+            Console.WriteLine("Hola soy santy");
+            Console.WriteLine("Hola soy santy");
+            Console.WriteLine("Hola soy santy");
+            Console.WriteLine("Hola soy santy");
 
             int x = 2;
             int y = 2;
             Console.WriteLine(x + y);
+
+            Console.ReadKey();
             
         }
     }
